@@ -1,3 +1,4 @@
 PyPS3checker/standalone_resources/
 PyPS3checker/hashlist_decr.xml
 PyPS3checker/FLASH-NOR-FW4.90.bin
+.vscode/launch.json
